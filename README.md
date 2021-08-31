@@ -1,0 +1,2 @@
+# Emai-Marketing-System
+Web based systems that allows users to send emails with customized HTML template, the system record all sent emails. The system provides status of  sent emails, like was the email open or not, it also allows users to build an email list. The system is designed to be used by different organizations, each company or organization is associated with their preferred email template.
